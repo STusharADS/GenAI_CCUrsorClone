@@ -1,3 +1,5 @@
+https://youtube.com/shorts/271gWjhPpX8?si=yCAVI13PmRTwNkOE
+
 # AI Agent CLI Tool
 
 This is a small CLI app that uses an OpenRouter API key to run an AI agent from the terminal.
